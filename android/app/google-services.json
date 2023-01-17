@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225424866685",
+    "project_id": "gelle-login",
+    "storage_bucket": "gelle-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225424866685:android:447ca3fc5bdc2dba632014",
+        "android_client_info": {
+          "package_name": "com.example.gellelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225424866685-7o4c3c0cqvhij534i5q1pa9ggqlfk4g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQv8DxEZzZvOI3F7KIzXO1JKDqNXyUSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225424866685-7o4c3c0cqvhij534i5q1pa9ggqlfk4g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
